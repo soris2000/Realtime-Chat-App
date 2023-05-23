@@ -8,6 +8,12 @@ Realtime chat app in Python
 #### Run app:
 <code>python main.py</code>
 
+#### Sign in users default:
+<code>User Name: mario Password: mario1</code>
+####
+<code>User Name: peach Password: peach1</code>
+
+
 #### ScreenShots:
 ![home](Screenshots/home.png)
 ![signup](Screenshots/signup.png)
